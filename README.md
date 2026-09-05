@@ -20,7 +20,8 @@ I enjoy building applications and solving technical problems through programming
 Turn-based strategy game developed in Python and Pygame with an AI opponent,
 pathfinding using BFS and multiple difficulty levels.
 
-[View project](https://github.com/petronel3/QuickWar)
+[View source code](https://github.com/petronel3/QuickWar)  
+[Download and play](https://github.com/petronel3/QuickWar/tree/main/Quick_WAR)
 
 ### 📚 Správa knih
 Java desktop application with JavaFX and PostgreSQL database integration
