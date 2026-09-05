@@ -1,16 +1,43 @@
-## Hi there 👋
+# Petr Post
 
-<!--
-**petronel3/petronel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer | Bc. Information Technology
 
-Here are some ideas to get you started:
+Recent Bc. graduate in Information Technology at Palacký University Olomouc.
+Interested in software development, backend technologies, databases, cloud and AI.
+I enjoy building applications and solving technical problems through programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+**Languages:** Python, Java, PHP, C#, C, SQL  
+**Web:** HTML, CSS, JavaScript, Bootstrap  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git, GitHub, VS Code  
+**Other:** Linux, Windows
+
+## Featured Projects
+
+### 🎮 Quick War
+Turn-based strategy game developed in Python and Pygame with an AI opponent,
+pathfinding using BFS and multiple difficulty levels.
+
+[View project](...)
+
+### 📚 Správa knih
+Java desktop application with JavaFX and PostgreSQL database integration
+using JDBC and SQL.
+
+[View project](...)
+
+### 🌐 Web Administration Application
+PHP web application with MySQL, Bootstrap, authentication,
+sessions and CRUD operations.
+
+[View project](...)
+
+## Interests
+
+Software development · Backend · Databases · Cloud · AI
+
+## Contact
+
+📧 petr.post2001@gmail.com  
