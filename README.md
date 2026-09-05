@@ -20,19 +20,19 @@ I enjoy building applications and solving technical problems through programming
 Turn-based strategy game developed in Python and Pygame with an AI opponent,
 pathfinding using BFS and multiple difficulty levels.
 
-[View project](...)
+[View project](https://github.com/petronel3/QuickWar)
 
 ### 📚 Správa knih
 Java desktop application with JavaFX and PostgreSQL database integration
 using JDBC and SQL.
 
-[View project](...)
+[View project](https://github.com/petronel3/sprava_knih)
 
 ### 🌐 Web Administration Application
 PHP web application with MySQL, Bootstrap, authentication,
 sessions and CRUD operations.
 
-[View project](...)
+[View project](https://github.com/petronel3/web-aplikace-php)
 
 ## Interests
 
